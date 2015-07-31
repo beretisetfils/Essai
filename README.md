@@ -1,10 +1,10 @@
 # Essai
 ## Activité fil rouge
-**17 opérateurs de recherche** peuvent être utilisés.
-*La requête* que je peux faire  pour trouver les derniers tweets contenant Afrika et code est : #Afrikacode
+1) **17 opérateurs de recherche** peuvent être utilisés.
+2)*La requête* que je peux faire  pour trouver les derniers tweets contenant Afrika et code est : #Afrikacode
 3)_Après le test avec la console_, j’obtiens :
 https://api.twitter.com/1.1/search/tweets.json?q=%23afrikacode
-4)	Proposons une utilisation journalistique de l’API : je fais une requête : "#journalisme"
+4) _Proposons une utilisation journalistique de l’API_ : je fais une requête : "#journalisme"
 J’obtiens :
 https://api.twitter.com/1.1/search/tweets.json?q=%23journalisme
 **Les renseignements interessants ** qu’elle pourrait permettre d’obtenir sont :
