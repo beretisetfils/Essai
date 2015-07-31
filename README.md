@@ -1,5 +1,5 @@
 # Essai
-4.7 Activité fil rouge
+## Activité fil rouge
 
 1)	17 opérateurs de recherche peuvent être utilisés.
 2)	La requête que je peux faire  pour trouver les derniers tweets contenant Afrika et code est : #Afrikacode
